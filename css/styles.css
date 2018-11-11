@@ -1,0 +1,15 @@
+html, body{
+    margin: 10px;
+}
+
+input{
+    margin: 10px 0;
+}
+
+.focus{
+    outline: 2px solid red;
+}
+
+.shadow{
+    box-shadow: 5px 5px 10px #000;
+}
